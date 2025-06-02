@@ -18,6 +18,8 @@ This project is built using Laravel 11.x and PHP 8.1. You can learn more about t
 
 To get started contributing to this project, please read the [contributing guide](./docs/contributing.md).
 
+Once you've read the contributing guide, you can follow the deployment instructions in the [deployment guide](./docs/deployment.md).
+
 ## Security Vulnerabilities
 
 If you discover a security vulnerability within this project, please contact the maintainer directly. All security vulnerabilities will be promptly addressed.
