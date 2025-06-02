@@ -12,7 +12,15 @@ This repository contains the source code for the ActiveBiz web site. You can use
 
 ## Learning the Codebase
 
-This project is built using Laravel 11.x and PHP 8.1. You can learn more about the Laravel framework by visiting the [Laravel website](https://laravel.com/docs/11.x) and looking through the [internal documentation](./docs).
+This project is built using Laravel 11.x and PHP 8.1. You can learn more about the Laravel framework by visiting the [Laravel website](https://laravel.com/docs/11.x) and looking through the [internal documentation](./docs). The following resources are also available:
+
+- [`app`](./app) - The core of the application.
+- [`database`](./database) - The database migrations and seeders.
+- [`resources`](./resources) - The frontend assets.
+- [`routes`](./routes) - The application routes for web, api, console (artisan)
+- [`tests`](./tests) - The application tests.
+- [`public`](./public) - The public assets.
+- [`.github`](./.github) - The github actions and configuration
 
 ## Contributing
 
